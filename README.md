@@ -1,6 +1,6 @@
 # 42_BornToBeRoot
-Create a secured Virtual Machine using VirtualBox
-Creating and securing a debian VM.
+Create a secured Virtual Machine (Debian) using VirtualBox.
+
 
 ## Monitoring:
 - cron task :
